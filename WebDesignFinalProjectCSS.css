@@ -1,0 +1,148 @@
+*{
+	margin: auto;
+	color: #FFFFFF;
+  font-family: 'Raleway', sans-serif;
+  overflow-x: hidden;
+}
+.header{
+  text-align: center; 
+  font-size: 25px; 
+  background-image: url("https://unemg.org/wp-content/uploads/2018/06/e-waste.jpg"); 
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height: 100vh; 
+  width: 100vw; 
+  padding-top: 100px; 
+  padding-left: 200px;
+  padding-right: 100px; 
+  padding-bottom: 100px;
+  position: relative;
+  margin: 0 auto; 
+}
+.header .header-content{
+  position: absolute;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); 
+  padding: 20px; 
+}
+.intro{
+  background-color: #778899; 
+  padding-top: 100px; 
+  padding-left: 100px;
+  padding-right: 100px; 
+  padding-bottom: 100px; 
+}
+h2{
+  text-align: center; 
+}
+.ghana{
+  background-image: url("https://www.borgenmagazine.com/wp-content/uploads/2014/05/Electronic_Waste.jpg") ; 
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  width: 100vw; 
+}
+.ewaste{
+  background-color: #778899; 
+  padding-top: 100px; 
+  padding-left: 100px;
+  padding-right: 100px; 
+  padding-bottom: 100px;
+}
+.china{
+  background-image: url("http://www.ipsnews.net/pictures/China_E_waste_hi_res.jpg") ; 
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  width: 100vw; 
+}
+.production{
+  background-color: #778899; 
+  padding-top: 100px; 
+  padding-left: 100px;
+  padding-right: 100px; 
+  padding-bottom: 100px;
+}
+.pakistan{
+  background-image: url("http://keenforgreen.pk/wp-content/uploads/2018/04/kids-in-the-e-waste-1024x681.jpg") ; 
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  width: 100vw;
+}
+.ewaste-receivers{
+  background-color: #778899; 
+  padding-top: 100px; 
+  padding-left: 100px;
+  padding-right: 100px; 
+  padding-bottom: 100px;
+  text-align: center;
+}
+.nigeria{
+  background-image: url("http://www.newswatchnigeria.com/wp-content/uploads/2018/05/e-waste-1024x682.jpg"); 
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  width: 100vw;
+}
+.action{
+  background-color: #778899; 
+  padding-top: 100px; 
+  padding-left: 100px;
+  padding-right: 100px; 
+  padding-bottom: 100px;
+}
+.agb{
+  background-image:url("https://i.ytimg.com/vi/qYSCc2lK4PI/maxresdefault.jpg");
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  width: 100vw;
+}
+.monitour{
+  background-color: #778899; 
+  padding-top: 100px; 
+  padding-left: 100px;
+  padding-right: 100px; 
+  padding-bottom: 100px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+.link{
+  display: block;
+  padding-top: 50px;
+  padding-left: 500px;
+  padding-right: 100px;
+}
+.iphone{
+  background-image:url("https://miro.medium.com/max/1050/1*_NrXB8cA80y1lOR0TykFYg.jpeg");
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  width: 100vw;
+}
+.more{
+  background-color: #778899; 
+  padding-top: 100px; 
+  padding-left: 100px;
+  padding-right: 100px; 
+  padding-bottom: 50px;
+}
